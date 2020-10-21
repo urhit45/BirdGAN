@@ -5,7 +5,7 @@ A generative adversarial network for creation of new bird images from existing K
 The dataset used for the implemenntation was the Kaggle's 225 Bird Species Dataset, of which I used only 1000 random images, for obvious computation reasons. As the name of the dataset suggests, it contains 225 Birds each of which has 150 images on an average.
 
 # Motivation
-The Motivation for this project was provided by moxiegushi, He has performed a similar implementation for Pokemons, which in my opinion is much cooler than birds.
+Much of the code used for this project was provided by [moxiegushi's](https://github.com/moxiegushi/pokeGAN) PokeGAN, He has performed a similar implementation for Pokemons, which in my opinion is much cooler than birds.
 
 # Using the Repo
  1. Download the dataset from the it's Kaggle page [here](https://www.kaggle.com/gpiosenka/100-bird-species)
